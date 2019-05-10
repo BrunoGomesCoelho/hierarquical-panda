@@ -1,0 +1,5 @@
+DATA_PATH = ../data/
+SEP = ,
+target_col = class
+train_name = instrument.training.data
+train_name = instrument.test.data
