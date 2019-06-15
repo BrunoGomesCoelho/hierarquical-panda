@@ -15,7 +15,7 @@ Our presentation of the theorical seminar can be found [here](https://docs.googl
 
 - Install the needed libraries: `python3 -m pip install -r requirements.txt`
 
-- Install the local library [hmc](https://github.com/davidwarshaw/hmc): `python3 -m pip install -e experiments/hmc-master`
+- Install the local library [hmc](https://github.com/davidwarshaw/hmc): `python2 -m pip install -e experiments/hmc-master`
 
 - Run the prepare data notebook;
 
