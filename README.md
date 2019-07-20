@@ -1,5 +1,7 @@
 # hierarquical-panda
-A repository for the 2019 Hierarquical Classification seminar for the ICMC course "Advanced Topics in AI"
+A repository for the 2019 Hierarchiical Classification seminar for the ICMC course "Advanced Topics in AI".
+
+We analyzed the current theory and state of art in hierarchical classification and executed some sample experiments, both with local and global models for two datasets, instrument and insect classification.
 
 # Topics
 
